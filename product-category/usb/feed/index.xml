@@ -11,11 +11,11 @@
 	>
 
 <channel>
-	<title>USB &#8211; THỐNG COMPUTER</title>
+	<title>USB &#8211; ThongComputer</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Lựa chọn tốt nhất cho bạn</description>
-	<lastBuildDate>Sat, 03 Jul 2021 05:55:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 10:32:55 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2021/06/cropped-logosite-1-32x32.jpg</url>
-	<title>USB &#8211; THỐNG COMPUTER</title>
+	<title>USB &#8211; ThongComputer</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
