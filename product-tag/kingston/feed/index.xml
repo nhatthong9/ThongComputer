@@ -1,0 +1,111 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kingston &#8211; THỐNG COMPUTER</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Lựa chọn tốt nhất cho bạn</description>
+	<lastBuildDate>Sun, 27 Jun 2021 09:34:35 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/06/cropped-logosite-1-32x32.jpg</url>
+	<title>kingston &#8211; THỐNG COMPUTER</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SSD Kingston A400 2.5-Inch SATA III 120GB SA400S37/120G</title>
+		<link>./../../../product/ssd-kingston-a400-2-5-inch-sata-iii-120gb-sa400s37-120g/index.html</link>
+					<comments>./../../../product/ssd-kingston-a400-2-5-inch-sata-iii-120gb-sa400s37-120g/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2021 09:34:34 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=532</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Chuẩn SSD: 2.5 inches</li>
+ 	<li>Tốc độ đọc: 500 MB/s</li>
+ 	<li>Tốc độ ghi: 320 MB/s</li>
+ 	<li>Bảo hành chính hãng 3 năm 1 đổi 1</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Kingston (USA)</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">SA400S37/120G</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">Sata III 6 Gbps</td>
+</tr>
+<tr>
+<td class="specTopic">Kích thước</td>
+<td class="specDetail">2.5 inch, 6.8 mm</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">120 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Random 4k</td>
+<td class="specDetail">50.000 IOPs</td>
+</tr>
+<tr>
+<td class="specTopic">Đọc tuần tự</td>
+<td class="specDetail">500 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Ghi tuần tự</td>
+<td class="specDetail">320 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">TBW</td>
+<td class="specDetail">40 TB</td>
+</tr>
+<tr>
+<td class="specTopic">NAND Flash</td>
+<td class="specDetail"><strong>TLC</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail"><strong>36 tháng</strong></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/ssd-kingston-a400-2-5-inch-sata-iii-120gb-sa400s37-120g/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
