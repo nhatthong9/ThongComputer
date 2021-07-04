@@ -15,7 +15,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Lựa chọn tốt nhất cho bạn</description>
-	<lastBuildDate>Sun, 27 Jun 2021 09:48:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 06:14:45 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,83 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SSD Lexar NS100 2.5-Inch SATA III 128GB LNS100-128RB</title>
+		<link>./../../../product/ssd-lexar-ns100-2-5-inch-sata-iii-128gb-lns100-128rb/index.html</link>
+					<comments>./../../../product/ssd-lexar-ns100-2-5-inch-sata-iii-128gb-lns100-128rb/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 06:14:43 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=748</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Chuẩn SSD: 2.5 inches</li>
+ 	<li>Tốc độ đọc: 520 MB/s</li>
+ 	<li>Tốc độ ghi: 450 MB/s</li>
+ 	<li>Bảo hành: 3 năm</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Lexar</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">LNS100-128RB</td>
+</tr>
+<tr>
+<td class="specTopic">Kích thước</td>
+<td class="specDetail">2.5&#8243;, 6,8mm</td>
+</tr>
+<tr>
+<td class="specTopic">Chuần giao tiếp</td>
+<td class="specDetail">Sata III 6Gbit/s</td>
+</tr>
+<tr>
+<td class="specTopic"> Dung lượng</td>
+<td class="specDetail">128 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">520 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">450 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Random 4k</td>
+<td class="specDetail"><b>60.000 IOPs</b></td>
+</tr>
+<tr>
+<td class="specTopic">TBW</td>
+<td class="specDetail"><b>64 TB</b></td>
+</tr>
+<tr>
+<td class="specTopic">Nand Flash</td>
+<td class="specDetail">TLC</td>
+</tr>
+<tr>
+<td class="specTopic"> Bảo hành</td>
+<td class="specDetail"><strong>36 tháng</strong></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/ssd-lexar-ns100-2-5-inch-sata-iii-128gb-lns100-128rb/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>SSD Western Digital Blue 3D-NAND 2.5-Inch SATA III 250GB WDS250G2B0A</title>
 		<link>./../../../product/ssd-western-digital-blue-3d-nand-2-5-inch-sata-iii-250gb-wds250g2b0a/index.html</link>
 					<comments>./../../../product/ssd-western-digital-blue-3d-nand-2-5-inch-sata-iii-250gb-wds250g2b0a/index.html#respond</comments>
