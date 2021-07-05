@@ -15,7 +15,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Lựa chọn tốt nhất cho bạn</description>
-	<lastBuildDate>Sun, 04 Jul 2021 06:14:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:49:31 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,615 +31,40 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>SSD Lexar NS100 2.5-Inch SATA III 128GB LNS100-128RB</title>
-		<link>./../../product/ssd-lexar-ns100-2-5-inch-sata-iii-128gb-lns100-128rb/index.html</link>
-					<comments>./../../product/ssd-lexar-ns100-2-5-inch-sata-iii-128gb-lns100-128rb/index.html#respond</comments>
+		<title>USB 3.0 Kingston DataTraverler 100 G3 32GB-64GB-128GB 100MB/s DT100G3</title>
+		<link>./../../product/usb-3-0-kingston-datatraverler-100-g3-32gb-64gb-128gb-100mb-s-dt100g3/index.html</link>
+					<comments>./../../product/usb-3-0-kingston-datatraverler-100-g3-32gb-64gb-128gb-100mb-s-dt100g3/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sun, 04 Jul 2021 06:14:43 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=748</guid>
+		<pubDate>Sun, 04 Jul 2021 15:49:30 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=978</guid>
 
-					<description><![CDATA[<ul>
- 	<li>Chuẩn SSD: 2.5 inches</li>
- 	<li>Tốc độ đọc: 520 MB/s</li>
- 	<li>Tốc độ ghi: 450 MB/s</li>
- 	<li>Bảo hành: 3 năm</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
+					<description><![CDATA[Nhà sản xuất Kingston (USA) Model DT 100 G3 Chuẩn giao tiếp USB 3.0 (Tương thích ngược 2.0) Dung lượng 32 GB &#124; 64 GB &#124; 128 GB Tốc độ đọc 100 MB/s Tốc độ ghi 10 MB/s Bảo hành 60 tháng]]></description>
+										<content:encoded><![CDATA[<table class="specTable" border="1" cellpadding="1">
 <tbody>
 <tr>
 <td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Lexar</strong></td>
+<td class="specDetail"><strong>Kingston (USA)</strong></td>
 </tr>
 <tr>
 <td class="specTopic">Model</td>
-<td class="specDetail">LNS100-128RB</td>
+<td class="specDetail">DT 100 G3</td>
 </tr>
 <tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">2.5&#8243;, 6,8mm</td>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">USB 3.0 (Tương thích ngược 2.0)</td>
 </tr>
 <tr>
-<td class="specTopic">Chuần giao tiếp</td>
-<td class="specDetail">Sata III 6Gbit/s</td>
-</tr>
-<tr>
-<td class="specTopic"> Dung lượng</td>
-<td class="specDetail">128 GB</td>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">32 GB | 64 GB | 128 GB</td>
 </tr>
 <tr>
 <td class="specTopic">Tốc độ đọc</td>
-<td class="specDetail">520 MB/s</td>
+<td class="specDetail">100 MB/s</td>
 </tr>
 <tr>
 <td class="specTopic">Tốc độ ghi</td>
-<td class="specDetail">450 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Random 4k</td>
-<td class="specDetail"><b>60.000 IOPs</b></td>
-</tr>
-<tr>
-<td class="specTopic">TBW</td>
-<td class="specDetail"><b>64 TB</b></td>
-</tr>
-<tr>
-<td class="specTopic">Nand Flash</td>
-<td class="specDetail">TLC</td>
-</tr>
-<tr>
-<td class="specTopic"> Bảo hành</td>
-<td class="specDetail"><strong>36 tháng</strong></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../product/ssd-lexar-ns100-2-5-inch-sata-iii-128gb-lns100-128rb/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SSD Western Digital Blue 3D-NAND 2.5-Inch SATA III 250GB WDS250G2B0A</title>
-		<link>./../../product/ssd-western-digital-blue-3d-nand-2-5-inch-sata-iii-250gb-wds250g2b0a/index.html</link>
-					<comments>./../../product/ssd-western-digital-blue-3d-nand-2-5-inch-sata-iii-250gb-wds250g2b0a/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sun, 27 Jun 2021 09:48:33 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=540</guid>
-
-					<description><![CDATA[<ul>
- 	<li>Chuẩn SSD:  2.5 inch SATA III</li>
- 	<li>Tốc độ đọc: 550 MB/s</li>
- 	<li>Tốc độ ghi: 525 MB/s</li>
- 	<li>Bảo hành chính hãng 5 năm 1 đổi 1</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Western Digital</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">WDS250G2B0A</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">2.5 inch</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">250 GB</td>
-</tr>
-<tr>
-<td class="specTopic">Random 4k</td>
-<td class="specDetail">95.000 IOPS</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ đọc</td>
-<td class="specDetail">550 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ ghi</td>
-<td class="specDetail">525 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">MTBF</td>
-<td class="specDetail">1.750.000 Giờ</td>
-</tr>
-<tr>
-<td class="specTopic">TBW</td>
-<td class="specDetail">100 TB <strong>(3D-NAND)</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Phần mềm chuyển hệ điều hành</td>
-<td class="specDetail"><a href="https://support.wdc.com/downloads.aspx?p=119" target="_blank" rel="noopener noreferrer"><strong>Acronis® True Image<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> WD Edition <em>(Click here to Download)</em></strong></a></td>
-</tr>
-<tr>
-<td class="specTopic">Bảo hành</td>
-<td class="specDetail"><strong>60 tháng </strong></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../product/ssd-western-digital-blue-3d-nand-2-5-inch-sata-iii-250gb-wds250g2b0a/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SSD Crucial MX500 3D NAND 2.5-Inch SATA III 250GB CT250MX500SSD1</title>
-		<link>./../../product/ssd-crucial-mx500-3d-nand-2-5-inch-sata-iii-250gb-ct250mx500ssd1/index.html</link>
-					<comments>./../../product/ssd-crucial-mx500-3d-nand-2-5-inch-sata-iii-250gb-ct250mx500ssd1/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sun, 27 Jun 2021 09:42:16 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=536</guid>
-
-					<description><![CDATA[<ul>
- 	<li>Chuẩn SSD: 2.5 inches</li>
- 	<li>Tốc độ đọc: 560 MB/s</li>
- 	<li>Tốc độ ghi: 510 MB/s</li>
- 	<li>Bảo hành chính hãng 5 năm 1 đổi 1</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Crucial (Micron USA)</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">MX500 CT250MX500SSD1</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">2.5&#8243;</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">250 GB</td>
-</tr>
-<tr>
-<td class="specTopic">Random 4k</td>
-<td class="specDetail">95.000 IOPS</td>
-</tr>
-<tr>
-<td class="specTopic">Đọc tuần tự</td>
-<td class="specDetail">560 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Ghi tuần tự</td>
-<td class="specDetail">510 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">TBW</td>
-<td class="specDetail">100 TB</td>
-</tr>
-<tr>
-<td class="specTopic">NAND Flash</td>
-<td class="specDetail">Micron 3D-NAND 64 Layer Technology</td>
-</tr>
-<tr>
-<td class="specTopic">Bảo hành</td>
-<td class="specDetail"><strong>60 tháng</strong><strong> </strong><strong><em><a href="https://www.memoryzone.com.vn/quy-dinh-bao-hanh" target="_blank" rel="noopener">(xem thêm chính sách bảo hành tại ĐÂY)</a></em></strong></td>
-</tr>
-<tr>
-<td class="specTopic">Phân mềm hệ điều hành</td>
-<td class="specDetail"><a href="https://www.acronis.com/en-sg/promo/CrucialHD-download/" target="_blank" rel="noopener"><em><strong>Acronis True Image for Crucial</strong></em><strong> (Click here)</strong></a></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../product/ssd-crucial-mx500-3d-nand-2-5-inch-sata-iii-250gb-ct250mx500ssd1/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SSD Kingston A400 2.5-Inch SATA III 120GB SA400S37/120G</title>
-		<link>./../../product/ssd-kingston-a400-2-5-inch-sata-iii-120gb-sa400s37-120g/index.html</link>
-					<comments>./../../product/ssd-kingston-a400-2-5-inch-sata-iii-120gb-sa400s37-120g/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sun, 27 Jun 2021 09:34:34 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=532</guid>
-
-					<description><![CDATA[<ul>
- 	<li>Chuẩn SSD: 2.5 inches</li>
- 	<li>Tốc độ đọc: 500 MB/s</li>
- 	<li>Tốc độ ghi: 320 MB/s</li>
- 	<li>Bảo hành chính hãng 3 năm 1 đổi 1</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Kingston (USA)</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">SA400S37/120G</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III 6 Gbps</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">2.5 inch, 6.8 mm</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">120 GB</td>
-</tr>
-<tr>
-<td class="specTopic">Random 4k</td>
-<td class="specDetail">50.000 IOPs</td>
-</tr>
-<tr>
-<td class="specTopic">Đọc tuần tự</td>
-<td class="specDetail">500 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Ghi tuần tự</td>
-<td class="specDetail">320 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">TBW</td>
-<td class="specDetail">40 TB</td>
-</tr>
-<tr>
-<td class="specTopic">NAND Flash</td>
-<td class="specDetail"><strong>TLC</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Bảo hành</td>
-<td class="specDetail"><strong>36 tháng</strong></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../product/ssd-kingston-a400-2-5-inch-sata-iii-120gb-sa400s37-120g/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SSD Crucial BX500 3D NAND 2.5-Inch SATA III 120GB CT120BX500SSD1</title>
-		<link>./../../product/ssd-crucial-bx500-3d-nand-2-5-inch-sata-iii-120gb-ct120bx500ssd1/index.html</link>
-					<comments>./../../product/ssd-crucial-bx500-3d-nand-2-5-inch-sata-iii-120gb-ct120bx500ssd1/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sun, 27 Jun 2021 08:47:25 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=519</guid>
-
-					<description><![CDATA[<ul>
- 	<li>Chuẩn SSD: 2.5 inches</li>
- 	<li>Tốc độ đọc: 540 MB/s</li>
- 	<li>Tốc độ ghi: 500 MB/s</li>
- 	<li>Bảo hành chính hãng 3 năm 1 đổi 1</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Crucial (Micron USA)</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">BX500 CT120BX500SSD1</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">2.5&#8243;</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">120 GB</td>
-</tr>
-<tr>
-<td class="specTopic">Random 4k</td>
-<td class="specDetail">60.0000 IOPs</td>
-</tr>
-<tr>
-<td class="specTopic">Đọc tuần tự</td>
-<td class="specDetail">540 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Ghi tuần tự</td>
-<td class="specDetail">500 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">TBW</td>
-<td class="specDetail">40 TB</td>
-</tr>
-<tr>
-<td class="specTopic">NAND Flash</td>
-<td class="specDetail">Micron 3D-NAND 64 Layer Technology</td>
-</tr>
-<tr>
-<td class="specTopic">Bảo hành</td>
-<td class="specDetail"><strong>36 tháng </strong><strong><em><a href="https://www.memoryzone.com.vn/quy-dinh-bao-hanh" target="_blank" rel="noopener">(xem thêm chính sách bảo hành tại ĐÂY)</a></em></strong></td>
-</tr>
-<tr>
-<td class="specTopic">Phân mềm hệ điều hành</td>
-<td class="specDetail"><a href="https://www.acronis.com/en-sg/promo/CrucialHD-download/" target="_blank" rel="noopener"><em><strong>Acronis True Image for Crucial</strong></em><strong> (Click here)</strong></a></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../product/ssd-crucial-bx500-3d-nand-2-5-inch-sata-iii-120gb-ct120bx500ssd1/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>HDD Seagate BarraCuda 1TB 2.5 inch SATA III 128MB Cache 5400RPM ST1000LM048</title>
-		<link>./../../product/hdd-seagate-barracuda-1tb-2-5-inch-sata-iii-128mb-cache-5400rpm-st1000lm048/index.html</link>
-					<comments>./../../product/hdd-seagate-barracuda-1tb-2-5-inch-sata-iii-128mb-cache-5400rpm-st1000lm048/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sat, 26 Jun 2021 10:19:36 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=487</guid>
-
-					<description><![CDATA[<ul>
- 	<li>Loại ổ cứng: HDD</li>
- 	<li>Dung lượng: 1 TB</li>
- 	<li>Kích thước: 2.5 inch</li>
- 	<li>Số vòng: 5400RPM</li>
- 	<li>Tốc độ: Lên đến 140 MB/s</li>
- 	<li>Bảo hành: 24 tháng</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Seagate (USA)</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">BarraCuda ST1000LM048</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">2.5 inch 7mm</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">1 TB</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ</td>
-<td class="specDetail">~ 140 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Bộ nhớ Cache</td>
-<td class="specDetail">128 MB</td>
-</tr>
-<tr>
-<td class="specTopic">RPM</td>
-<td class="specDetail"><strong>5400</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Bảo hành</td>
-<td class="specDetail"><strong>24 tháng</strong></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../product/hdd-seagate-barracuda-1tb-2-5-inch-sata-iii-128mb-cache-5400rpm-st1000lm048/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>HDD WD Red 1TB 3.5 inch SATA III 64MB Cache 5400RPM WD10EFRX</title>
-		<link>./../../product/hdd-wd-red-1tb-3-5-inch-sata-iii-64mb-cache-5400rpm-wd10efrx/index.html</link>
-					<comments>./../../product/hdd-wd-red-1tb-3-5-inch-sata-iii-64mb-cache-5400rpm-wd10efrx/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sat, 26 Jun 2021 10:14:57 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=483</guid>
-
-					<description><![CDATA[<ul>
- 	<li>Chuẩn SSD: 3.5" Inches SATA III</li>
- 	<li>Số vòng: 5400RPM</li>
- 	<li>Tốc độ đọc: ~100 MB/s</li>
- 	<li>Tốc độ ghi: ~100 MB/s</li>
- 	<li>Bảo hành chính hãng 3 năm 1 đổi 1</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Western Digital</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">WD10EFRX</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">3.5 inch</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">1 TB</td>
-</tr>
-<tr>
-<td class="specTopic">Cache</td>
-<td class="specDetail">64MB</td>
-</tr>
-<tr>
-<td class="specTopic">RPM</td>
-<td class="specDetail">5400</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ đọc</td>
-<td class="specDetail">~100 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ ghi</td>
-<td class="specDetail">~100 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Phần mềm chuyển hệ điều hành</td>
-<td class="specDetail"><a href="https://support.wdc.com/downloads.aspx?p=119" target="_blank" rel="noopener noreferrer"><strong>Acronis® True Image<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> WD Edition <em>(Click here to Download)</em></strong></a></td>
-</tr>
-<tr>
-<td class="specTopic">Bảo hành</td>
-<td class="specDetail"><strong>36 tháng</strong></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../product/hdd-wd-red-1tb-3-5-inch-sata-iii-64mb-cache-5400rpm-wd10efrx/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>HDD WD Black 1TB 3.5 inch SATA III 64MB Cache 7200RPM WD1003FZEX</title>
-		<link>./../../product/hdd-wd-black-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-wd1003fzex/index.html</link>
-					<comments>./../../product/hdd-wd-black-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-wd1003fzex/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sat, 26 Jun 2021 10:09:32 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=479</guid>
-
-					<description><![CDATA[<ul>
- 	<li>Chuẩn SSD: 3.5" Inches SATA III</li>
- 	<li>Số vòng: 7200RPM</li>
- 	<li>Tốc độ đọc: ~100 MB/s</li>
- 	<li>Tốc độ ghi: ~100 MB/s</li>
- 	<li>Bảo hành chính hãng 5 năm 1 đổi 1</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Western Digital</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">WD1003FZEX</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">3.5 inch</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">1 TB</td>
-</tr>
-<tr>
-<td class="specTopic">Cache</td>
-<td class="specDetail">64MB</td>
-</tr>
-<tr>
-<td class="specTopic">RPM</td>
-<td class="specDetail">7200</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ đọc</td>
-<td class="specDetail">~100 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ ghi</td>
-<td class="specDetail">~ 100MB/s</td>
-</tr>
-<tr>
-<td class="specTopic"><span style="color: #000000;">Phần mềm chuyển hệ điều hành</span></td>
-<td class="specDetail"><a href="https://support.wdc.com/downloads.aspx?p=119" target="_blank" rel="noopener noreferrer"><strong>Acronis® True Image<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> WD Edition <em>(Click here to Download)</em></strong></a></td>
+<td class="specDetail">10 MB/s</td>
 </tr>
 <tr>
 <td class="specTopic">Bảo hành</td>
@@ -649,26 +74,83 @@
 </table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/hdd-wd-black-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-wd1003fzex/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../../product/usb-3-0-kingston-datatraverler-100-g3-32gb-64gb-128gb-100mb-s-dt100g3/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>HDD WD Black 500GB 2.5 inch SATA III 64MB Cache 7200RPM WD5000LPSX</title>
-		<link>./../../product/hdd-wd-black-500gb-2-5-inch-sata-iii-64mb-cache-7200rpm-wd5000lpsx/index.html</link>
-					<comments>./../../product/hdd-wd-black-500gb-2-5-inch-sata-iii-64mb-cache-7200rpm-wd5000lpsx/index.html#respond</comments>
+		<title>USB 3.2 Gen 1 Kingston DataTraveler Exodia 32GB-64GB DTX</title>
+		<link>./../../product/usb-3-2-gen-1-kingston-datatraveler-exodia-32gb-64gb-dtx/index.html</link>
+					<comments>./../../product/usb-3-2-gen-1-kingston-datatraveler-exodia-32gb-64gb-dtx/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sat, 26 Jun 2021 10:02:56 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=475</guid>
+		<pubDate>Sun, 04 Jul 2021 15:42:30 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=972</guid>
+
+					<description><![CDATA[Thông số kĩ thuật Nhà sản xuất Kingston (USA) Model DTX/32GB &#124; 64GB Chuẩn giao tiếp USB 3.2 gen 1 (tương thích ngược) Dung lượng 32GB &#124; 64 GB Tốc độ đọc 100MB/s Tốc độ ghi 10 MB/s Bảo hành 60 tháng]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Kingston (USA)</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">DTX/32GB | 64GB</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail"><span style="color: #000000;">USB 3.2 gen 1 (tương thích ngược)</span></td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">32GB | 64 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">100MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">10 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail"><strong>60 tháng</strong></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/usb-3-2-gen-1-kingston-datatraveler-exodia-32gb-64gb-dtx/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>USB 3.2 Kingston Zodiac Ox 2021 64GB Limited Edition DTCNY21/64GB</title>
+		<link>./../../product/usb-3-2-kingston-zodiac-ox-2021-64gb-limited-edition-dtcny21-64gb/index.html</link>
+					<comments>./../../product/usb-3-2-kingston-zodiac-ox-2021-64gb-limited-edition-dtcny21-64gb/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:33:23 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=968</guid>
 
 					<description><![CDATA[<ul>
- 	<li>Chuẩn HDD: 2.5" Inches SATA III</li>
- 	<li>Số vòng: 7200RPM</li>
- 	<li>Tốc độ đọc: ~100 MB/s</li>
- 	<li>Tốc độ ghi: ~100 MB/s</li>
- 	<li>Bảo hành chính hãng 5 năm 1 đổi 1</li>
+ 	<li>Loại sản phẩm: USB</li>
+ 	<li>Dung lượng: 64 GB</li>
+ 	<li>Chuẩn kết nối: USB 3.2 Gen1, 3.1, 3.0, 2.0</li>
+ 	<li>Chất liệu: Kim loại</li>
+ 	<li>Tốc độ đọc: 100 MB/s</li>
+ 	<li>Bảo hành: 5 năm</li>
 </ul>]]></description>
 										<content:encoded><![CDATA[<table border="0">
 <tbody>
@@ -681,31 +163,19 @@
 <tbody>
 <tr>
 <td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Western Digital</strong></td>
+<td class="specDetail"><strong>Kingston (USA)</strong></td>
 </tr>
 <tr>
 <td class="specTopic">Model</td>
-<td class="specDetail">WD5000LPSX</td>
+<td class="specDetail">DTCNY21/64GB</td>
 </tr>
 <tr>
 <td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">2.5 inch</td>
+<td class="specDetail">USB 3.2 Gen1 ; 3.1 ; 3.0 ; 2.0</td>
 </tr>
 <tr>
 <td class="specTopic">Dung lượng</td>
-<td class="specDetail">500 GB</td>
-</tr>
-<tr>
-<td class="specTopic">Cache</td>
-<td class="specDetail">64MB</td>
-</tr>
-<tr>
-<td class="specTopic">RPM</td>
-<td class="specDetail">7200</td>
+<td class="specDetail">64 GB</td>
 </tr>
 <tr>
 <td class="specTopic">Tốc độ đọc</td>
@@ -713,11 +183,15 @@
 </tr>
 <tr>
 <td class="specTopic">Tốc độ ghi</td>
-<td class="specDetail">~ 100MB/s</td>
+<td class="specDetail">~15 MB/s</td>
 </tr>
 <tr>
-<td class="specTopic"><span style="color: #000000;">Phần mềm chuyển hệ điều hành</span></td>
-<td class="specDetail"><a href="https://support.wdc.com/downloads.aspx?p=119" target="_blank" rel="noopener noreferrer"><strong>Acronis® True Image<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> WD Edition <em>(Click here to Download)</em></strong></a></td>
+<td class="specTopic">Chất liệu</td>
+<td class="specDetail">Nhôm nguyên khối bọc silicon</td>
+</tr>
+<tr>
+<td class="specTopic">Kích thước</td>
+<td class="specDetail">43.16mm x 28.96mm x 27.31mm</td>
 </tr>
 <tr>
 <td class="specTopic">Bảo hành</td>
@@ -727,87 +201,447 @@
 </table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/hdd-wd-black-500gb-2-5-inch-sata-iii-64mb-cache-7200rpm-wd5000lpsx/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>./../../product/usb-3-2-kingston-zodiac-ox-2021-64gb-limited-edition-dtcny21-64gb/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>HDD Seagate BarraCuda 1TB 3.5 inch SATA III 64MB Cache 7200RPM ST1000DM010</title>
-		<link>./../../product/hdd-seagate-barracuda-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-st1000dm010/index.html</link>
-					<comments>./../../product/hdd-seagate-barracuda-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-st1000dm010/index.html#comments</comments>
+		<title>USB 3.0 SanDisk Cruzer Glide CZ600 32GB SDCZ600-032G-G35</title>
+		<link>./../../product/usb-3-0-sandisk-cruzer-glide-cz600-32gb-sdcz600-032g-g35/index.html</link>
+					<comments>./../../product/usb-3-0-sandisk-cruzer-glide-cz600-32gb-sdcz600-032g-g35/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
-		<pubDate>Sat, 26 Jun 2021 07:35:03 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=449</guid>
+		<pubDate>Sun, 04 Jul 2021 15:23:21 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=964</guid>
 
 					<description><![CDATA[<ul>
- 	<li>Loại ổ cứng: HDD</li>
- 	<li>Dung lượng: 1 TB</li>
- 	<li>Kích thước: 3.5 inch</li>
- 	<li>Số vòng: 7200RPM</li>
- 	<li>Tốc độ: Lên đến 210 MB/s</li>
- 	<li>Bảo hành: 24 tháng</li>
+ 	<li>Loại sản phẩm: USB</li>
+ 	<li>Dung lượng: 32 GB</li>
+ 	<li>Chuẩn kết nối: USB 3.0</li>
+ 	<li>Tốc độ đọc: 100 MB/s</li>
+ 	<li>Bảo hành 5 năm</li>
 </ul>]]></description>
-										<content:encoded><![CDATA[<div class="product-summary product_description margin-bottom-0">
-<div class="rte description rte-summary">
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Sandisk</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">SDCZ600-032G-G35</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">&#8211; USB 3.0</p>
+<p>&#8211; USB 2.0</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">32 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độc đọc</td>
+<td class="specDetail">~ 100 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">~ 20 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail"><strong>60 tháng</strong></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/usb-3-0-sandisk-cruzer-glide-cz600-32gb-sdcz600-032g-g35/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>USB 3.0 SanDisk Ultra Flair CZ73 16GB 130MB/s SDCZ73-016G-G46</title>
+		<link>./../../product/usb-3-0-sandisk-ultra-flair-cz73-16gb-130mb-s-sdcz73-016g-g46/index.html</link>
+					<comments>./../../product/usb-3-0-sandisk-ultra-flair-cz73-16gb-130mb-s-sdcz73-016g-g46/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:19:55 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=960</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Loại sản phẩm: USB 3.0</li>
+ 	<li>Dung lượng: 16 GB</li>
+ 	<li>Chất liệu: Kim loại</li>
+ 	<li>Tốc độ đọc: 130 MB/s</li>
+ 	<li>Bảo hành: 5 năm</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Sandisk</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">CZ73</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">USB 3.0 ; 2.0</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">16 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">~130 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">~15 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail">60 tháng</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/usb-3-0-sandisk-ultra-flair-cz73-16gb-130mb-s-sdcz73-016g-g46/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>USB 3.1 SanDisk Ultra Fit CZ430 16GB SDCZ430-016G-G46</title>
+		<link>./../../product/usb-3-1-sandisk-ultra-fit-cz430-16gb-sdcz430-016g-g46/index.html</link>
+					<comments>./../../product/usb-3-1-sandisk-ultra-fit-cz430-16gb-sdcz430-016g-g46/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:17:22 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=956</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Loại sản phẩm: USB 3.1</li>
+ 	<li>Dung lượng: 16 GB</li>
+ 	<li>Chất liệu: Nhựa</li>
+ 	<li>Tốc độ đọc: 135 MB/s</li>
+ 	<li>Bảo hành: 5 năm</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Sandisk (USA)</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">SDCZ430-016G-G46</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">USB 3.1 ; 3.0 ; 2.0</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">16 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">~ 130 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">~ 15 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail"><strong>60 tháng</strong></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/usb-3-1-sandisk-ultra-fit-cz430-16gb-sdcz430-016g-g46/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thẻ nhớ SDHC Kingston Canvas Select 16GB-32GB Class 10 U1 SDS</title>
+		<link>./../../product/the-nho-sdhc-kingston-canvas-select-16gb-32gb-class-10-u1-sds/index.html</link>
+					<comments>./../../product/the-nho-sdhc-kingston-canvas-select-16gb-32gb-class-10-u1-sds/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 13:38:21 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=942</guid>
+
+					<description><![CDATA[Thông số kĩ thuật Nhà sản xuất Kingston (USA) Model SDS/16GB &#124; 32GB Loại thẻ nhớ SDHC Dung lượng 16 GB &#124; 32 GB Tốc độ đọc 80 MB/s Tốc độ ghi 10 MB/s Bảo hành 60 tháng]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Kingston (USA)</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">SDS/16GB | 32GB</td>
+</tr>
+<tr>
+<td class="specTopic">Loại thẻ nhớ</td>
+<td class="specDetail">SDHC</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">16 GB | 32 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">80 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">10 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail"><strong>60 tháng</strong></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/the-nho-sdhc-kingston-canvas-select-16gb-32gb-class-10-u1-sds/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combo Thẻ Nhớ MicroSDHC Kingston Canvas Select Plus 32GB Class 10 U1 100MB/s SDCS2/32GBCP</title>
+		<link>./../../product/combo-the-nho-microsdhc-kingston-canvas-select-plus-32gb-class-10-u1-100mb-s-sdcs2-32gbcp/index.html</link>
+					<comments>./../../product/combo-the-nho-microsdhc-kingston-canvas-select-plus-32gb-class-10-u1-100mb-s-sdcs2-32gbcp/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 13:30:38 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=935</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Loại sản phẩm: microSD</li>
+ 	<li>Dung lượng: 32 GB</li>
+ 	<li>Tốc độ đọc: 100 MB/s</li>
+ 	<li>Tốc độ Ghi: 10 MB/s</li>
+ 	<li>Bảo hành: 5 năm</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Kingston</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn tốc độ</td>
+<td class="specDetail">A1 &#8211; Class 10 U1</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">MicroSD</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">32GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">~100MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">~10MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail">60 tháng</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/combo-the-nho-microsdhc-kingston-canvas-select-plus-32gb-class-10-u1-100mb-s-sdcs2-32gbcp/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thẻ Nhớ MicroSDXC Kingston Canvas Select Plus 64GB Class 10 U1 100MB/s SDCS2/64GB</title>
+		<link>./../../product/the-nho-microsdxc-kingston-canvas-select-plus-64gb-class-10-u1-100mb-s-sdcs2-64gb/index.html</link>
+					<comments>./../../product/the-nho-microsdxc-kingston-canvas-select-plus-64gb-class-10-u1-100mb-s-sdcs2-64gb/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 13:20:49 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=931</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Loại sản phẩm: microSD</li>
+ 	<li>Dung lượng: 64 GB</li>
+ 	<li>Tốc độ đọc: 100 MB/s</li>
+ 	<li>Tốc độ Ghi: 15 MB/s</li>
+ 	<li>Bảo hành: 5 năm</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Kingston</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn tốc độ</td>
+<td class="specDetail">A1 &#8211; Class 10 U1</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">MicroSD</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">64GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">~100MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">~15MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail">60 tháng</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/the-nho-microsdxc-kingston-canvas-select-plus-64gb-class-10-u1-100mb-s-sdcs2-64gb/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thẻ nhớ SDHC SanDisk Extreme U3 V30 600X 32GB 90MB/s SDSDXVE-032G-GNCIN</title>
+		<link>./../../product/the-nho-sdhc-sandisk-extreme-u3-v30-600x-32gb-90mb-s-sdsdxve-032g-gncin/index.html</link>
+					<comments>./../../product/the-nho-sdhc-sandisk-extreme-u3-v30-600x-32gb-90mb-s-sdsdxve-032g-gncin/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 13:13:31 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=927</guid>
+
+					<description><![CDATA[<div class="product-summary product_description margin-bottom-0">
+<div class="rte description  rte-summary">
 <ul>
-<li>
-<table border="0">
-<tbody>
-<tr>
-<td><strong>Thông số kĩ thuật</strong></td>
-</tr>
-</tbody>
-</table>
-<table class="specTable" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td class="specTopic">Nhà sản xuất</td>
-<td class="specDetail"><strong>Seagate (USA)</strong></td>
-</tr>
-<tr>
-<td class="specTopic">Model</td>
-<td class="specDetail">BarraCuda ST1000DM010</td>
-</tr>
-<tr>
-<td class="specTopic">Chuẩn giao tiếp</td>
-<td class="specDetail">Sata III</td>
-</tr>
-<tr>
-<td class="specTopic">Kích thước</td>
-<td class="specDetail">3.5 inch</td>
-</tr>
-<tr>
-<td class="specTopic">Dung lượng</td>
-<td class="specDetail">1 TB</td>
-</tr>
-<tr>
-<td class="specTopic">Tốc độ</td>
-<td class="specDetail">~ 210 MB/s</td>
-</tr>
-<tr>
-<td class="specTopic">Bộ nhớ Cache</td>
-<td class="specDetail">64 MB</td>
-</tr>
-<tr>
-<td class="specTopic">RPM</td>
-<td class="specDetail">7200</td>
-</tr>
-<tr>
-<td class="specTopic">Bảo hành</td>
-<td class="specDetail"><strong>24 tháng chính hãng Seagate Việt Nam</strong></td>
-</tr>
-</tbody>
-</table>
-</li>
+ 	<li>Loại sản phẩm: SD Card</li>
+ 	<li>Dung lượng: 32 GB</li>
+ 	<li>Tốc độ đọc: 90 MB/s</li>
+ 	<li>Tốc độ Ghi: 40 MB/s</li>
+ 	<li>Bảo hành: 5 năm</li>
 </ul>
 </div>
 </div>
+<div class="sapo-buyxgety-module-detail"></div>
+<div class="form-product col-sm-12"><form id="add-to-cart-form" class="form-inline margin-bottom-0" action="https://memoryzone.com.vn/cart/add" enctype="multipart/form-data" method="post">
+<div class="col-sm-6 col-xs-12 no-padding">
+<div class="box-variant clearfix "></div>
+</div>
+</form></div>]]></description>
+										<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td><strong>Thông số kĩ thuật</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="specTable" border="1" cellpadding="1">
+<tbody>
+<tr>
+<td class="specTopic">Nhà sản xuất</td>
+<td class="specDetail"><strong>Sandisk (USA)</strong></td>
+</tr>
+<tr>
+<td class="specTopic">Model</td>
+<td class="specDetail">Extreme 600x</td>
+</tr>
+<tr>
+<td class="specTopic">Chuẩn giao tiếp</td>
+<td class="specDetail">SD ; SDHC</td>
+</tr>
+<tr>
+<td class="specTopic">Dung lượng</td>
+<td class="specDetail">32 GB</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ đọc</td>
+<td class="specDetail">90 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Tốc độ ghi</td>
+<td class="specDetail">40 MB/s</td>
+</tr>
+<tr>
+<td class="specTopic">Bảo hành</td>
+<td class="specDetail"><strong>60 tháng</strong></td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/hdd-seagate-barracuda-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-st1000dm010/feed/index.html</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>./../../product/the-nho-sdhc-sandisk-extreme-u3-v30-600x-32gb-90mb-s-sdsdxve-032g-gncin/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
